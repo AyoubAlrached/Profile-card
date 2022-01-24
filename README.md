@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 
@@ -48,7 +47,7 @@
     <h2 style="text-align:center">User Profile Card</h2>
     <div class="card">
        <img src="IMG_20211015_174512_137.jpg" style="width: 100%;">
-        <h1>Ayoub Al Rrched</h1>
+        <h1>Ayoub Al Rached</h1>
         <p class="title">Student</p>
         <p>learning Python</p>
         <h2>send me a Message  ↓ </h2>
